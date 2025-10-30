@@ -1,0 +1,1 @@
+def build_standard_deck() -> list[dict]:
